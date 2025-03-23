@@ -1,0 +1,23 @@
+{
+  "name": "Word-Eletrix",
+  "version": "3.0.0",
+  "description": "site com objetivos de espalhar conhecimento!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "luanzin dev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "",
+    "axios": "",
+    "request": "",
+    "qs": "",
+    "fs-extra": "",
+    "canvas": "",
+    "canvafy": "",
+    "discord-canvas": "",
+    "canvacard": "",
+    "jimp": ""
+  }
+}
